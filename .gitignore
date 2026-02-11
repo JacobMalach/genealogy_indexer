@@ -1,0 +1,17 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Local environment variables (passwords/API keys)
+.env
+
+# Windows system files
+Thumbs.db
+desktop.ini
